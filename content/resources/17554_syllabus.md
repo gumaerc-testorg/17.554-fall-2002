@@ -9,6 +9,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 4fdaa284-efdd-57be-301c-e0ea1bdd5046
 resourcetype: Document
 title: The Political Economy of Latin America
 uid: 6d92a93e-31e3-a807-bdca-db525413d9ab
