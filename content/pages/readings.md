@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides a bibliography of course texts and required readings.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
