@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides a bibliography of course texts and required readings.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 3c5aaa10-c718-5232-547b-9200b5cdd510
 ---
